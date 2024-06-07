@@ -7,4 +7,10 @@ To build an end-to-end Machine Learning model, you first need to train a Machine
 4. Load the model within the app to use for predictions.
 
 ## Final Result
+You have to enter the following to get the output :
+- Distance to the nearest MRT station
+- Number of convenience stores
+- Latitude
+- Longitude
+
 ![ML project](https://github.com/RmBenjy/Real-Estate-Price-Prediction/assets/136175741/bf7639e2-e264-474d-97c4-d4743de51128)

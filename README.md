@@ -1,4 +1,4 @@
-# Real-Estate-Price-Prediction
+# Real Estate Price Prediction
 To build an end-to-end Machine Learning model, you first need to train a Machine Learning model as you do in every Machine Learning problem you solve. Once you have trained your model, below is the process you can follow to turn your Machine Learning model into an end-to-end solution using the dash framework:
 
 1. Set up a new Dash application.
